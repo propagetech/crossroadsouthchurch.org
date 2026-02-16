@@ -571,734 +571,163 @@ Files and context:
   {
     "path": "imgs/015269adc941c55077d19dda6bbbfdcd.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/0525e299afe46b90ffd029547aac7026.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/0528bb9ca1e12c2bb084c80d84cc0801.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Sermon: Jesus: The Light of the World",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/06af1f2ec3cd6cf1f3700f7ccc15bed9.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        },
-        {
-          "alt": "logo",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/07fdff9edd48463c4573c33f782a7e97.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/0b32641db7745af52088f24e2d44d0d7.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Don\u2019t Cave In",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/0c00292e23598f1d21e440d53f7e09c8.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "blog-thumb-1",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/116073250e5423b7ed6cbb008373d14a.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Benjamin Stephen, Pastor In-Charge",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/16b12c6b7dacd6048ac834ddaaac251e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/1a03b428e4b3c5d2d2a16a35b3376912.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Corporate Worship",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/1a7f5a841a782a47b6e38ca1be10bcb1.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/1b03561771239b8a6eb7b9f02f081bd3.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "A King With A Difference",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/208efa9d18f4e8c996fddbdec4594f10.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "The Cost of Christian Discipleship",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/2145b8f08fd29ba59ecf7f360c4f565b.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Core Values",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/29529a7e3ef5241dcd9d324b9d3f3ddd.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/29af004223c4b3257730101d2124e212.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/2e4599b3c5ce4a85e6ada0e4e410c81c.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/38c0871e5e0dcab5bf287f46c0444daf.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Sermon: A Cup not of Wine but of Wrath",
-          "title": ""
-        },
-        {
-          "alt": "Sermon: A Cup not of Wine but of Wrath",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/42ff88518db6ad22ff582c521018e7ff.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/476ca60dce8069b6e68180bcd03c5811.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/4c0d7ff3000c92b7f64a384add000cf6.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Teens Ministry",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/4c8997667541a7a38b824197ebe20a7e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/4e2aca67a59f3fb55eb6308dec7b1f32.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Our Vision",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/50b3d964f0785d3a450831ea1a4b7308.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/50d672ad36e60845467523c603c5ad73.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/54120b9e107fcc4a3e335243be673283.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Kingdom Warriors",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/5a2d8bf39a0a22454bff87ac135d08d7.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
@@ -1310,685 +739,145 @@ Files and context:
   {
     "path": "imgs/5f20f2f7924f06fdd6cc3c8b1ef0887f.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/64554838275f777c2b0cba9f5a6a06ee.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/6ed1e669b309939ed817bf65e03c602e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/7180500aceadf8aeeaf2f9ee1ea72003.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/744730eb82c5b8834327374a6cb9ac8a.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/78983f7026fe95e3d9a60450c74a42b7.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/7d0ea75bade7391a2f7cc0371faeb11e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/809d6ea327bf2e3c5cab4b298ffee655.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Worship befitting a King",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/8226f2f4dc825354d52d588d0a7858cf.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Our Mission",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/827bd1cd7f33c2fa1d06c051aea19196.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "A meal that Was, Is and Is to be",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/86390458ed9812dd913590e589bf7338.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "image description",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/86a4d17ea861184b3747180228b99a13.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/87da342e3d87e5c7b091f489c4a8b959.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/8835b9d83d7f9987cbb8e9986d178e2d.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Timothy Connors, Elder-Pastor",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/88a7b350c318c63d2104a45845a0890f.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Crossroad South Church",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/8ce09e79604e34c31faee32b1acd2bd5.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/90ea54af805f598625c3285bff3f9dff.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/9cce5de697c41bb1a861b397d0a159e4.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Behind Bethlehem: A zealous God",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/a5a39c525206760a7fbf6e10c1d05841.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/a82000ab1f9b4f14d52869b2366c0245.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "image description",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/a84c042ec0f62f19946f6a2d14354235.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/a84ee5730d243dcc0a45d88f7b742159.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/ac9197856310146e0f623282bed2eb37.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/b0f80b53f59fa75a8f912c74f69c79c2.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
@@ -2005,477 +894,97 @@ Files and context:
   {
     "path": "imgs/be7c7e9d6b7f806a437bb42c93bb29ac.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        },
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/c0d1cf5c964993f9c81f9bbb6c95b1d3.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/c1d1b4d71c65c983deaf3e1092e02d52.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "Womens Ministry",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/cfeac0ccc141595ced8df7cc5e336a9b.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/d0e036e87d8beb4f2b77b0de70bab3d4.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/d1c453a77596d3cf6159b91aa5ac738e.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/d1c6ef342cb994da44fbd1e9a26f1746.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/d85654748ce3c98af0b2f40bd77d9989.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/d8e4eabef9d29466c8ce99e91c4a66df.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "What follows is our understanding of basic \u201cessentials\u201d of the biblical, orthodox Christian faith. W",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/dc8ad9184ec085407231c4f251fd167d.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/e523fe11889d5cf8f18418a67bb31f8f.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/e55cfbd8e873d74784f8aeab648a2ede.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/e58ff5d788c04653d6398aff5ff06702.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/e9f1cb9c37db9a908d82be04c61f0988.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/ed2a246d80e3f32dbbcda8a8ee004583.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "We are a community of Christ-followers from diverse linguistic, geographic, and cultural backgrounds",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
     "path": "imgs/ef14331603d10754a7f85ab9469172fb.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
@@ -2487,16 +996,7 @@ Files and context:
   {
     "path": "imgs/f9d46bea5fe7deb48ca5bc74dcd0d878.webp",
     "context": {
-      "refs": [
-        {
-          "alt": "The Samaritan\u2019s Purse",
-          "title": ""
-        },
-        {
-          "alt": "The Samaritan\u2019s Purse",
-          "title": ""
-        }
-      ]
+      "refs": []
     }
   },
   {
